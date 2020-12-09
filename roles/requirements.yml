@@ -1,0 +1,3 @@
+- src: https://github.com/Fofanko/uwsgi-django-role.git
+  scm: git
+  version: main
