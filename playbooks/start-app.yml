@@ -3,4 +3,4 @@
   user: root
 
   roles:
-    - app-role
+    - uwsgi-django-role
